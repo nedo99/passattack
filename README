@@ -1,0 +1,2 @@
+Script for breaking passwords (etc/passwd and etc/shadow).
+To run: gcc –O3 -o guessword guessword.c -lcrypt
